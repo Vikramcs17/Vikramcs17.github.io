@@ -16,17 +16,17 @@ const skills: Skill[] = [
   { name: "TypeScript", level: 90, category: "frontend" },
   { name: "HTML/CSS", level: 98, category: "frontend" },
   { name: "Tailwind CSS", level: 92, category: "frontend" },
-  
+
   // Backend
-  { name: "Node.js", level: 88, category: "backend" },
-  { name: "Express", level: 85, category: "backend" },
-  { name: "MongoDB", level: 80, category: "backend" },
+  { name: "Node.js", level: 80,category: "backend" },
+  // { name: "Express", level: 85, category: "backend" },
+  // { name: "MongoDB", level: 80, category: "backend" },
   { name: "SQL", level: 75, category: "backend" },
   
   // Tools
   { name: "Git", level: 90, category: "tools" },
-  { name: "Docker", level: 78, category: "tools" },
-  { name: "AWS", level: 70, category: "tools" },
+  // { name: "Docker", level: 78, category: "tools" },
+  // { name: "AWS", level: 70, category: "tools" },
   { name: "Figma", level: 85, category: "tools" },
 ];
 

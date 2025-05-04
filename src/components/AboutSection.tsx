@@ -6,7 +6,7 @@ const AboutSection = () => {
   return (
     <section id="about" className="section-container py-20">
       <ScrollAnimation>
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-5xl font-bold mb-8 text-center glow">
             About <span className="text-primary">Me</span>
           </h2>
@@ -24,13 +24,14 @@ const AboutSection = () => {
                 </div>
                 <div>
                   <p className="text-lg mb-4">
-                    Hi there! I'm a passionate full-stack developer with expertise in modern web technologies.
+                  Hi! I’m Vikram, a passionate Full-Stack Developer with a strong foundation in modern web technologies and a keen eye for clean, performant, and user-centric applications.
                   </p>
                   <p className="text-lg mb-4">
-                    I specialize in creating responsive, user-friendly applications that not only look great but also perform exceptionally well.
+                  Whether it's crafting elegant front-end interfaces or building robust back-end systems, I love turning complex problems into simple, intuitive solutions.
                   </p>
                   <p className="text-lg">
                     When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying the outdoors.
+                    Let’s build something awesome together!
                   </p>
                 </div>
               </div>
