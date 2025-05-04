@@ -4,7 +4,7 @@ This is my personal portfolio website built with **React**, **TypeScript**, and 
 
 ### ✨ Live Demo
 
-[Check it out here](vikram-gupta.me)
+[Check it out here]((https://vikram-gupta.me)
 
 ---
 
